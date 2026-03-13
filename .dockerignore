@@ -1,0 +1,16 @@
+.git
+.dockerignore
+Dockerfile
+*.sql
+*.zip
+*.pdf
+tmp/
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+node_modules/
+npm-debug.log
+error_log
+php_errors.log
